@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://goo.su/UPleA8B",Alvin Channel TV
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://i.imgur.com/di3XX5L.png",AzTV Star 1
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://azstartv.com/images/logo.png",AzTV Star 2 (240p)
+http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://admin.aztv.az/userfiles/files/a.png",Az TV 1
+https://yayin2.canlitv.fun/live/aztv.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://admin.aztv.az/userfiles/files/a.png",Az TV 2
+https://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://i.imgur.com/wVT0dwO.png",CBC 1
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://i.imgur.com/wVT0dwO.png",CBC 2
+https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://i.imgur.com/gt8Fhjj.png",MƏdƏniyyƏt TV 1
+https://yayin2.canlitv.fun/live/medeniyettv.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://i.imgur.com/gt8Fhjj.png",MƏdƏniyyƏt TV 2
+https://str1.yodacdn.net/medeniyyet/tracks-v1a1/mono.ts.m3u8?token=a860083dfe1108c173003e29bd9f9116cd45241b-18e56321f340aef39a6b9310237634c2-1742591003000000-1742580203000
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://i.imgur.com/gt8Fhjj.png",MƏdƏniyyƏt TV 3
+https://str.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://goo.su/pCU2GGV",APA TV (720p)
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://yoda.az/logos/showplus.png,Show Plus TV (720p)
+https://glb.bozztv.com/glb/ssh101/showplus/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://goo.su/zErxEMz",Azad TV 1
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://goo.su/zErxEMz",Azad TV 2 (240p)
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_240p500kbps.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://goo.su/zErxEMz",Azad TV 3 (720p)
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://goo.su/zErxEMz",Azad TV 4 (720p)
+https://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://azadsoz.az/wp-content/uploads/2024/02/logo-azad-soz-1.png",Azad Söz Az TV
+https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1830880870_b1896000.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://i.postimg.cc/ZRGrMLbg/In-Shot-20250213-182731296.png",ATV CINEMA
+http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563780&extension=m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://ntv.az/assets/images/logo.png",Naxçıvan TV
+http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://ntv.az/assets/images/logo.png",Naxçıvan TV 2
+https://str.yodacdn.net/ntv/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://goo.su/t0zgj",MUSIC AZERBAIJAN TV
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://goo.su/Ya8croS",Dünya TV 1
+http://135.181.115.81:8000/play/a01l/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://goo.su/Ya8croS",Dünya TV 2
+https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://yoda.az/logos/space.png",Space TV
+https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://yoda.az/logos/space.png",Space TV 2
+https://str.yodacdn.net/space/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://goo.su/2jy6T",Xezer Tv
+https://yayin2.canlitv.fun/live/xezertv.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://www.arbtv.az/assets/uploads/sites/logo.png",ARB TV
+https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://yoda.az/logos/start.png",Kanal S
+https://yayin2.canlitv.fun/live/kanals.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://yoda.az/logos/start.png",Kanal S 2 (720p)
+https://kanal7.daioncdn.net/kanal7/kanal7_720p.m3u8?&sid=79ceupxg599x&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://yoda.az/logos/start.png",Kanal S 3 (360p)
+https://kanal7.daioncdn.net/kanal7/kanal7_360p.m3u8?&sid=79ceupxg599x&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://yoda.az/logos/itv.png",İctimai Tv 1
+https://yayin2.canlitv.fun/live/ictimaitv.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://yoda.az/logos/itv.png",İctimai Tv 2
+https://str.yodacdn.net/ictimai/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://yoda.az/logos/bakutv.webp",Bakü TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://yoda.az/logos/bakutv.webp",Bakü TV (720p)
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+
