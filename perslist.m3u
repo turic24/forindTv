@@ -21,7 +21,7 @@ https://str1.yodacdn.net/medeniyyet/tracks-v1a1/mono.ts.m3u8?token=a860083dfe110
 https://str.yodacdn.net/medeniyyet/index.m3u8
 #EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://goo.su/pCU2GGV",APA TV (720p)
 http://rtmp.apa.tv/@pagroup!23.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://yoda.az/logos/showplus.png,Show Plus TV (720p)
+#EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://yoda.az/logos/showplus.png,Show Plus TV (720p)"
 https://glb.bozztv.com/glb/ssh101/showplus/index.m3u8
 #EXTINF:-1 group-title="Azerbaijan Channels" tvg-logo="https://goo.su/zErxEMz",Azad TV 1
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
