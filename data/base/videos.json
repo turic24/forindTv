@@ -22,6 +22,210 @@
             "title": "Video 3",
             "playerLabel": "Video 3",
             "action": "video:http://msx.benzac.de/media/video3.mp4"
+        },
+        {
+            "title": "Alvin Channel TV",
+            "playerLabel": "Alvin Channel TV",
+            "image": "https://goo.su/UPleA8B",
+            "action": "video:https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8"
+        },
+        {
+            "title": "AzTV Star 1",
+            "playerLabel": "AzTV Star 1",
+            "image": "https://i.imgur.com/di3XX5L.png",
+            "action": "video:http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8"
+        },
+        {
+            "title": "AzTV Star 2 (240p)",
+            "playerLabel": "AzTV Star 2 (240p)",
+            "image": "https://azstartv.com/images/logo.png",
+            "action": "video:http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8"
+        },
+        {
+            "title": "Az TV 1",
+            "playerLabel": "Az TV 1",
+            "image": "https://admin.aztv.az/userfiles/files/a.png",
+            "action": "video:https://yayin2.canlitv.fun/live/aztv.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298"
+        },
+        {
+            "title": "Az TV 2",
+            "playerLabel": "Az TV 2",
+            "image": "https://admin.aztv.az/userfiles/files/a.png",
+            "action": "video:https://str.yodacdn.net/aztv/index.m3u8"
+        },
+        {
+            "title": "CBC 1",
+            "playerLabel": "CBC 1",
+            "image": "https://i.imgur.com/wVT0dwO.png",
+            "action": "video:https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8"
+        },
+        {
+            "title": "CBC 2",
+            "playerLabel": "CBC 2",
+            "image": "https://i.imgur.com/wVT0dwO.png",
+            "action": "video:https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298"
+        },
+        {
+            "title": "MƏdƏniyyƏt TV 1",
+            "playerLabel": "MƏdƏniyyƏt TV 1",
+            "image": "https://i.imgur.com/gt8Fhjj.png",
+            "action": "video:https://yayin2.canlitv.fun/live/medeniyettv.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298"
+        },
+        {
+            "title": "MƏdƏniyyƏt TV 2",
+            "playerLabel": "MƏdƏniyyƏt TV 2",
+            "image": "https://i.imgur.com/gt8Fhjj.png",
+            "action": "video:https://str1.yodacdn.net/medeniyyet/tracks-v1a1/mono.ts.m3u8?token=a860083dfe1108c173003e29bd9f9116cd45241b-18e56321f340aef39a6b9310237634c2-1742591003000000-1742580203000"
+        },
+        {
+            "title": "MƏdƏniyyƏt TV 3",
+            "playerLabel": "MƏdƏniyyƏt TV 3",
+            "image": "https://i.imgur.com/gt8Fhjj.png",
+            "action": "video:https://str.yodacdn.net/medeniyyet/index.m3u8"
+        },
+        {
+            "title": "APA TV (720p)",
+            "playerLabel": "APA TV (720p)",
+            "image": "https://goo.su/pCU2GGV",
+            "action": "video:http://rtmp.apa.tv/@pagroup!23.m3u8"
+        },
+        {
+            "title": "Show Plus TV (720p)\"",
+            "playerLabel": "Show Plus TV (720p)\"",
+            "image": "https://yoda.az/logos/showplus.png,Show Plus TV (720p)",
+            "action": "video:https://glb.bozztv.com/glb/ssh101/showplus/index.m3u8"
+        },
+        {
+            "title": "Azad TV 1",
+            "playerLabel": "Azad TV 1",
+            "image": "https://goo.su/zErxEMz",
+            "action": "video:https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8"
+        },
+        {
+            "title": "Azad TV 2 (240p)",
+            "playerLabel": "Azad TV 2 (240p)",
+            "image": "https://goo.su/zErxEMz",
+            "action": "video:https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_240p500kbps.m3u8"
+        },
+        {
+            "title": "Azad TV 3 (720p)",
+            "playerLabel": "Azad TV 3 (720p)",
+            "image": "https://goo.su/zErxEMz",
+            "action": "video:https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298"
+        },
+        {
+            "title": "Azad TV 4 (720p)",
+            "playerLabel": "Azad TV 4 (720p)",
+            "image": "https://goo.su/zErxEMz",
+            "action": "video:https://str.yodacdn.net/aztv/index.m3u8"
+        },
+        {
+            "title": "Azad Söz Az TV",
+            "playerLabel": "Azad Söz Az TV",
+            "image": "https://azadsoz.az/wp-content/uploads/2024/02/logo-azad-soz-1.png",
+            "action": "video:https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1830880870_b1896000.m3u8"
+        },
+        {
+            "title": "ATV CINEMA",
+            "playerLabel": "ATV CINEMA",
+            "image": "https://i.postimg.cc/ZRGrMLbg/In-Shot-20250213-182731296.png",
+            "action": "video:http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563780&extension=m3u8"
+        },
+        {
+            "title": "Naxçıvan TV",
+            "playerLabel": "Naxçıvan TV",
+            "image": "https://ntv.az/assets/images/logo.png",
+            "action": "video:http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536"
+        },
+        {
+            "title": "Naxçıvan TV 2",
+            "playerLabel": "Naxçıvan TV 2",
+            "image": "https://ntv.az/assets/images/logo.png",
+            "action": "video:https://str.yodacdn.net/ntv/index.m3u8"
+        },
+        {
+            "title": "MUSIC AZERBAIJAN TV",
+            "playerLabel": "MUSIC AZERBAIJAN TV",
+            "image": "https://goo.su/t0zgj",
+            "action": "video:https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8"
+        },
+        {
+            "title": "Dünya TV 1",
+            "playerLabel": "Dünya TV 1",
+            "image": "https://goo.su/Ya8croS",
+            "action": "video:http://135.181.115.81:8000/play/a01l/index.m3u8?token=livetv"
+        },
+        {
+            "title": "Dünya TV 2",
+            "playerLabel": "Dünya TV 2",
+            "image": "https://goo.su/Ya8croS",
+            "action": "video:https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298"
+        },
+        {
+            "title": "Space TV",
+            "playerLabel": "Space TV",
+            "image": "https://yoda.az/logos/space.png",
+            "action": "video:https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298"
+        },
+        {
+            "title": "Space TV 2",
+            "playerLabel": "Space TV 2",
+            "image": "https://yoda.az/logos/space.png",
+            "action": "video:https://str.yodacdn.net/space/index.m3u8"
+        },
+        {
+            "title": "Xezer Tv",
+            "playerLabel": "Xezer Tv",
+            "image": "https://goo.su/2jy6T",
+            "action": "video:https://yayin2.canlitv.fun/live/xezertv.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298"
+        },
+        {
+            "title": "ARB TV",
+            "playerLabel": "ARB TV",
+            "image": "https://www.arbtv.az/assets/uploads/sites/logo.png",
+            "action": "video:https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298"
+        },
+        {
+            "title": "Kanal S",
+            "playerLabel": "Kanal S",
+            "image": "https://yoda.az/logos/start.png",
+            "action": "video:https://yayin2.canlitv.fun/live/kanals.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298"
+        },
+        {
+            "title": "Kanal S 2 (720p)",
+            "playerLabel": "Kanal S 2 (720p)",
+            "image": "https://yoda.az/logos/start.png",
+            "action": "video:https://kanal7.daioncdn.net/kanal7/kanal7_720p.m3u8?&sid=79ceupxg599x&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3"
+        },
+        {
+            "title": "Kanal S 3 (360p)",
+            "playerLabel": "Kanal S 3 (360p)",
+            "image": "https://yoda.az/logos/start.png",
+            "action": "video:https://kanal7.daioncdn.net/kanal7/kanal7_360p.m3u8?&sid=79ceupxg599x&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3"
+        },
+        {
+            "title": "İctimai Tv 1",
+            "playerLabel": "İctimai Tv 1",
+            "image": "https://yoda.az/logos/itv.png",
+            "action": "video:https://yayin2.canlitv.fun/live/ictimaitv.stream/playlist.m3u8?hash=bbb779630fa788aa2ef7d3be8ce46298"
+        },
+        {
+            "title": "İctimai Tv 2",
+            "playerLabel": "İctimai Tv 2",
+            "image": "https://yoda.az/logos/itv.png",
+            "action": "video:https://str.yodacdn.net/ictimai/index.m3u8"
+        },
+        {
+            "title": "Bakü TV",
+            "playerLabel": "Bakü TV",
+            "image": "https://yoda.az/logos/bakutv.webp",
+            "action": "video:https://rtmp.baku.tv/hls/bakutv.m3u8"
+        },
+        {
+            "title": "Bakü TV (720p)",
+            "playerLabel": "Bakü TV (720p)",
+            "image": "https://yoda.az/logos/bakutv.webp",
+            "action": "video:https://rtmp.baku.tv/live/bakutv_720p.m3u8"
         }
     ]
 }
