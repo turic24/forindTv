@@ -1,11 +1,13 @@
 {
-    "type": "pages",
-    "headline": "Videos",
+    "type": "list",
+    "headline": "TV Channels",
+    "wrap": true,
     "template": {
         "type": "separate",
-        "layout": "0,0,2,4",
-        "icon": "msx-white-soft:movie",
-        "color": "msx-glass"
+        "layout": "0,0,3,3",
+        "icon": "msx-white-soft:tv",
+        "color": "msx-glass",
+        "imageFiller": "cover"
     },
     "items": [
         {
